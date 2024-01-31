@@ -1,7 +1,7 @@
 # Module_19_Challenge
 Module 19 Challenge for RICE FinTech Assignment
 ----
-### Listed below are the screenshots from Streamlit and Ganache pages.
+# Listed below are the screenshots from Streamlit and Ganache pages.
 ---
 ![Screenshot 2024-01-30 175128 HMK 19 1](https://github.com/apeontherun/Module_19_Challenge/assets/28538519/6cd83f4d-e7a1-4e9d-b540-2a9460daf61e)
 
